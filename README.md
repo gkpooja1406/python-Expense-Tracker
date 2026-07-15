@@ -264,3 +264,4 @@ In Jenkins:
 - A webhook is configured in the application UI. The Jenkinsfile declares that
   the Pipeline accepts GitHub push triggers, but it cannot by itself create the
   GitHub repository webhook.
+upadted webhook payoad url with jenkins url in github
