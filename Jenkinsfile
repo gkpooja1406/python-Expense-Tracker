@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'python_agent' }
+    agent { label 'python-agent' }
 
     triggers {
         githubPush()
